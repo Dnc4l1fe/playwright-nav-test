@@ -7,8 +7,8 @@
     "test:headed": "npx playwright test --headed --config=playwright.config.js"
   },
   "devDependencies": {
-    "playwright": "^1.51.0",
-    "@playwright/test": "^1.51.0",
-    "http-server": "^14.1.1"
+    "@playwright/test": "^1.56.1",
+    "http-server": "^14.1.1",
+    "playwright": "^1.51.0"
   }
 }
